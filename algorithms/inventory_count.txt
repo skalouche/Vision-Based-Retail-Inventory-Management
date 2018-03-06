@@ -1,0 +1,693 @@
+Out of Stock Item: oreo
+Out of Stock Item: oreo bundle pack
+Item Removed From Shelf: oreo
+Item Removed From Shelf: penut butter cookie offbrand
+Out of Stock Item: oreo bundle pack
+Item Removed From Shelf: oreo
+Item Removed From Shelf: penut butter cookie offbrand
+Out of Stock Item: oreo bundle pack
+Item Removed From Shelf: oreo
+Item Removed From Shelf: penut butter cookie offbrand
+Out of Stock Item: oreo bundle pack
+Item Removed From Shelf: oreo
+Item Removed From Shelf: penut butter cookie offbrand
+Out of Stock Item: oreo bundle pack
+Item Removed From Shelf: oreo
+Item Removed From Shelf: penut butter cookie offbrand
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Item Removed From Shelf: toddler diapers
+Out of Stock Item: apple jacks
+Out of Stock Item: pop tarts blueberry
+Out of Stock Item: apple jacks
+Out of Stock Item: apple jacks
+Out of Stock Item: oreo
+30.04.2016, 13:51:04  |  Out of Stock Item: oreo
+04.30.2016, 13:52:49  |  Out of Stock Item: oreo bundle pack
+04.30.2016, 13:52:49  |  Item Removed From Shelf: oreo
+04.30.2016, 13:52:49  |  Item Removed From Shelf: penut butter cookie offbrand
+04.30.2016, 13:56:24  |  Out of Stock Item: oreo bundle pack
+04.30.2016, 13:56:24  |  Item Removed From Shelf: oreo
+04.30.2016, 13:56:24  |  Item Removed From Shelf: penut butter cookie offbrand
+04.30.2016, 14:00:45  |  Out of Stock Item: oreo bundle pack
+04.30.2016, 14:00:46  |  Item Removed From Shelf: oreo
+04.30.2016, 14:00:46  |  Item Removed From Shelf: penut butter cookie offbrand
+04.30.2016, 16:17:02  |  Out of Stock Item: oreo bundle pack
+04.30.2016, 16:17:02  |  Item Removed From Shelf: oreo
+04.30.2016, 16:17:03  |  Item Removed From Shelf: penut butter cookie offbrand
+05.03.2016, 01:42:29  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:33  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:33  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:33  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:34  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:34  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:34  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:34  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:35  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:35  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:35  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:36  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:36  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:36  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:36  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:37  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:37  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:37  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:38  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:48  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:49  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:49  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:49  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:49  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:50  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:50  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:50  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:50  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:51  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:51  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:51  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:52  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:52  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:52  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:52  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:53  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:53  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:53  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:54  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:54  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:54  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:54  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:55  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:55  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:55  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:56  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:56  |  Out of Stock Item: apple jacks
+05.03.2016, 01:42:56  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:05  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:06  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:06  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:06  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:06  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:07  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:07  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:07  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:07  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:08  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:08  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:08  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:09  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:09  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:10  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:10  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:10  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:11  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:11  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:11  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:13  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:13  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:14  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:14  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:14  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:15  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:15  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:15  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:16  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:25  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:25  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:25  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:26  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:26  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:26  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:26  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:27  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:27  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:27  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:27  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:28  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:28  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:28  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:29  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:29  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:29  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:30  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:31  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:32  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:33  |  Out of Stock Item: apple jacks
+05.03.2016, 01:43:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:30  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:30  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:30  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:36  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:36  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:36  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:37  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:37  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:37  |  Out of Stock Item: apple jacks
+05.03.2016, 14:10:38  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:18  |  Out of Stock Item: johnson and johnson lotion
+05.03.2016, 14:12:18  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:18  |  Out of Stock Item: toddler diapers
+05.03.2016, 14:12:18  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:19  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:19  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:12:19  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:20  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:12:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:34  |  Out of Stock Item: johnson and johnson lotion
+05.03.2016, 14:12:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:34  |  Out of Stock Item: toddler diapers
+05.03.2016, 14:12:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:36  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:36  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:12:36  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:37  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:12:50  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:50  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:50  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:51  |  Out of Stock Item: johnson and johnson lotion
+05.03.2016, 14:12:51  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:51  |  Out of Stock Item: toddler diapers
+05.03.2016, 14:12:51  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:52  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:12:53  |  Out of Stock Item: apple jacks
+05.03.2016, 14:12:53  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:13:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:06  |  Out of Stock Item: johnson and johnson lotion
+05.03.2016, 14:13:06  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:07  |  Out of Stock Item: toddler diapers
+05.03.2016, 14:13:07  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:07  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:08  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:13:08  |  Out of Stock Item: apple jacks
+05.03.2016, 14:13:09  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:15:23  |  Out of Stock Item: oreo
+05.03.2016, 14:15:41  |  Out of Stock Item: oreo
+05.03.2016, 14:16:05  |  Out of Stock Item: oreo
+05.03.2016, 14:16:42  |  Out of Stock Item: oreo
+05.03.2016, 14:17:09  |  Item Removed From Shelf: oreo
+05.03.2016, 14:17:10  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:17:34  |  Out of Stock Item: oreo bundle pack
+05.03.2016, 14:17:34  |  Item Removed From Shelf: oreo
+05.03.2016, 14:17:34  |  Item Removed From Shelf: penut butter cookie offbrand
+05.03.2016, 14:47:58  |  Item Removed From Shelf: corn flakes
+05.03.2016, 14:47:58  |  Out of Stock Item: apple jacks
+05.03.2016, 14:47:59  |  Out of Stock Item: corn flakes
+05.03.2016, 14:47:59  |  Item Removed From Shelf: pull ups boys
+05.03.2016, 14:47:59  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:48:00  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:00  |  Out of Stock Item: penut butter cookie offbrand
+05.03.2016, 14:48:00  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:01  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:01  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:01  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:02  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:02  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:48:03  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:48:14  |  Item Removed From Shelf: corn flakes
+05.03.2016, 14:48:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:15  |  Out of Stock Item: corn flakes
+05.03.2016, 14:48:15  |  Item Removed From Shelf: pull ups boys
+05.03.2016, 14:48:15  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:48:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:16  |  Out of Stock Item: penut butter cookie offbrand
+05.03.2016, 14:48:16  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:17  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:18  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:18  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:19  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:48:19  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:48:29  |  Item Removed From Shelf: corn flakes
+05.03.2016, 14:48:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:29  |  Out of Stock Item: corn flakes
+05.03.2016, 14:48:29  |  Item Removed From Shelf: pull ups boys
+05.03.2016, 14:48:30  |  Out of Stock Item: honey bunches of oats whole grain
+05.03.2016, 14:48:30  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:30  |  Out of Stock Item: penut butter cookie offbrand
+05.03.2016, 14:48:31  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:31  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:48:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:48:32  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:48:32  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:49:21  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:49:22  |  Out of Stock Item: apple jacks
+05.03.2016, 14:49:31  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:49:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:49:41  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:49:41  |  Out of Stock Item: apple jacks
+05.03.2016, 14:49:50  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:49:50  |  Out of Stock Item: apple jacks
+05.03.2016, 14:49:59  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:50:00  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:54  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:55  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:50:55  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:56  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:56  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:56  |  Out of Stock Item: lipton tea
+05.03.2016, 14:50:57  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:57  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:50:57  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:50:57  |  Out of Stock Item: apple jacks
+05.03.2016, 14:50:58  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:51:10  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:10  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:51:11  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:11  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:12  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:12  |  Out of Stock Item: lipton tea
+05.03.2016, 14:51:12  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:12  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:13  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:13  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:13  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:51:24  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:24  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:51:24  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:25  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:25  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:25  |  Out of Stock Item: lipton tea
+05.03.2016, 14:51:25  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:26  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:26  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:26  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:27  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:51:39  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:39  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:51:39  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:40  |  Out of Stock Item: lipton tea
+05.03.2016, 14:51:41  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:41  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:41  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:42  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:42  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:51:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:52  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:51:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:53  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:54  |  Out of Stock Item: lipton tea
+05.03.2016, 14:51:54  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:54  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:54  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:51:55  |  Out of Stock Item: apple jacks
+05.03.2016, 14:51:55  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:52:04  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:04  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:52:04  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:05  |  Out of Stock Item: lipton tea
+05.03.2016, 14:52:06  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:06  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:06  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:06  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:07  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:52:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:16  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:52:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:17  |  Out of Stock Item: lipton tea
+05.03.2016, 14:52:18  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:18  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:18  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:19  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:19  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:52:28  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:29  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:52:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:30  |  Out of Stock Item: lipton tea
+05.03.2016, 14:52:30  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:30  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:30  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:31  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:31  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:52:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:41  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:52:42  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:42  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:42  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:43  |  Out of Stock Item: lipton tea
+05.03.2016, 14:52:44  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:44  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:45  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:45  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:45  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:52:55  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:55  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:52:55  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:56  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:56  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:56  |  Out of Stock Item: lipton tea
+05.03.2016, 14:52:56  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:57  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:57  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:52:57  |  Out of Stock Item: apple jacks
+05.03.2016, 14:52:58  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:53:08  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:09  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:53:09  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:09  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:09  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:10  |  Out of Stock Item: lipton tea
+05.03.2016, 14:53:10  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:11  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:11  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:11  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:12  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:53:22  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:22  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:53:22  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:23  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:23  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:23  |  Out of Stock Item: lipton tea
+05.03.2016, 14:53:24  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:24  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:25  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:25  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:25  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:53:32  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:33  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:53:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:33  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:34  |  Out of Stock Item: lipton tea
+05.03.2016, 14:53:34  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:34  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:35  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:35  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:35  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:53:45  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:45  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:53:46  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:46  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:46  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:46  |  Out of Stock Item: lipton tea
+05.03.2016, 14:53:47  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:47  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:47  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:47  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:48  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:53:57  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:57  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:53:58  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:58  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:58  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:59  |  Out of Stock Item: lipton tea
+05.03.2016, 14:53:59  |  Out of Stock Item: apple jacks
+05.03.2016, 14:53:59  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:53:59  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:00  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:00  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:54:14  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:14  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:54:14  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:15  |  Out of Stock Item: lipton tea
+05.03.2016, 14:54:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:16  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:16  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:17  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:54:27  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:27  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:54:27  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:28  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:28  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:28  |  Out of Stock Item: lipton tea
+05.03.2016, 14:54:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:29  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:29  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:29  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:30  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:54:39  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:39  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:54:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:40  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:40  |  Out of Stock Item: lipton tea
+05.03.2016, 14:54:41  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:41  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:41  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:41  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:42  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:54:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:52  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:54:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:53  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:53  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:53  |  Out of Stock Item: lipton tea
+05.03.2016, 14:54:53  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:54  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:54  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:54:54  |  Out of Stock Item: apple jacks
+05.03.2016, 14:54:55  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:55:04  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:04  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:55:04  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:05  |  Out of Stock Item: lipton tea
+05.03.2016, 14:55:05  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:06  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:55:06  |  Item Removed From Shelf: speacial k mini
+05.03.2016, 14:55:07  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:07  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:55:14  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:14  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:55:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:15  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:16  |  Out of Stock Item: lipton tea
+05.03.2016, 14:55:16  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:16  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:55:17  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:55:17  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:17  |  Item Removed From Shelf: toddler diapers
+05.03.2016, 14:55:27  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:27  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 14:55:27  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:28  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:28  |  Out of Stock Item: apple jacks
+05.03.2016, 14:55:28  |  Out of Stock Item: lipton tea
+05.03.2016, 14:58:00  |  Out of Stock Item: apple jacks
+05.03.2016, 14:58:01  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:58:10  |  Out of Stock Item: apple jacks
+05.03.2016, 14:58:10  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:58:19  |  Out of Stock Item: apple jacks
+05.03.2016, 14:58:19  |  Item Removed From Shelf: pull ups girls
+05.03.2016, 14:59:06  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:59:16  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:59:26  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:59:35  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:59:43  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 14:59:43  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 14:59:44  |  Out of Stock Item: apple jacks
+05.03.2016, 14:59:44  |  Item Removed From Shelf: special k mini
+05.03.2016, 14:59:52  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 14:59:52  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 14:59:52  |  Out of Stock Item: apple jacks
+05.03.2016, 14:59:53  |  Item Removed From Shelf: special k mini
+05.03.2016, 15:00:01  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:01  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:01  |  Out of Stock Item: apple jacks
+05.03.2016, 15:00:02  |  Item Removed From Shelf: special k mini
+05.03.2016, 15:00:11  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:11  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:11  |  Out of Stock Item: apple jacks
+05.03.2016, 15:00:12  |  Item Removed From Shelf: special k mini
+05.03.2016, 15:00:20  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:20  |  Out of Stock Item: cheerios peanut butter
+05.03.2016, 15:00:21  |  Out of Stock Item: apple jacks
+05.03.2016, 15:00:21  |  Item Removed From Shelf: special k mini
+05.03.2016, 15:01:11  |  Out of Stock Item: apple jacks
+05.03.2016, 15:01:26  |  Out of Stock Item: apple jacks
+05.03.2016, 15:01:43  |  Out of Stock Item: Johnson and Johnson baby powder
+05.03.2016, 15:01:44  |  Item Removed From Shelf: johnson and johnson lotion
+05.03.2016, 15:01:44  |  Out of Stock Item: ritz bits
+05.03.2016, 15:01:44  |  Out of Stock Item: apple jacks
+05.08.2016, 18:06:29  |  Out of Stock Item: oreo
+05.08.2016, 18:07:50  |  Item Removed From Shelf: oreo
+05.08.2016, 18:07:50  |  Item Removed From Shelf: johnson and johnson lotion
+05.08.2016, 18:08:10  |  Out of Stock Item: oreo bundle pack
+05.08.2016, 18:08:10  |  Item Removed From Shelf: oreo
+05.08.2016, 18:08:10  |  Item Removed From Shelf: penut butter cookie offbrand
+05.12.2016, 03:03:34  |  Out of Stock Item: oreo
+05.12.2016, 10:25:14  |  Out of Stock Item: oreo
+05.13.2016, 00:58:45  |  Out of Stock Item: oreo
+05.14.2016, 21:27:14  |  Out of Stock Item: oreo
+05.14.2016, 21:28:30  |  Out of Stock Item: oreo
+05.14.2016, 21:30:43  |  Out of Stock Item: oreo
+05.14.2016, 21:30:57  |  Item Removed From Shelf: oreo
+05.14.2016, 21:30:57  |  Item Removed From Shelf: johnson and johnson lotion
+05.14.2016, 21:31:41  |  Out of Stock Item: oreo bundle pack
+05.14.2016, 21:31:41  |  Item Removed From Shelf: oreo
+05.14.2016, 21:31:42  |  Item Removed From Shelf: penut butter cookie offbrand
+05.31.2016, 16:48:43  |  Out of Stock Item: oreo
+05.31.2016, 16:49:03  |  Item Removed From Shelf: oreo
+05.31.2016, 16:49:04  |  Item Removed From Shelf: johnson and johnson lotion
+05.31.2016, 16:49:25  |  Out of Stock Item: oreo bundle pack
+05.31.2016, 16:49:25  |  Item Removed From Shelf: oreo
+05.31.2016, 16:49:26  |  Item Removed From Shelf: penut butter cookie offbrand
+05.31.2016, 16:57:26  |  Out of Stock Item: oreo bundle pack
+05.31.2016, 16:57:26  |  Item Removed From Shelf: oreo
+05.31.2016, 16:57:26  |  Item Removed From Shelf: penut butter cookie offbrand
+05.31.2016, 17:28:52  |  Out of Stock Item: oreo bundle pack
+05.31.2016, 17:28:53  |  Item Removed From Shelf: oreo
+05.31.2016, 17:28:53  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:07:41  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:07:42  |  Item Removed From Shelf: oreo
+08.03.2016, 02:07:42  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:08:24  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:08:24  |  Item Removed From Shelf: oreo
+08.03.2016, 02:08:24  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:09:11  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:09:11  |  Item Removed From Shelf: oreo
+08.03.2016, 02:09:12  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:10:52  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:10:52  |  Item Removed From Shelf: oreo
+08.03.2016, 02:10:52  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:12:45  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:12:45  |  Out of Stock Item: oreo
+08.03.2016, 02:12:46  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:13:55  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:13:55  |  Out of Stock Item: oreo
+08.03.2016, 02:13:55  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:19:08  |  Out of Stock Item: oreo
+08.03.2016, 02:19:20  |  Item Removed From Shelf: oreo
+08.03.2016, 02:19:20  |  Item Removed From Shelf: johnson and johnson lotion
+08.03.2016, 02:19:37  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:19:37  |  Item Removed From Shelf: oreo
+08.03.2016, 02:19:38  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:19:51  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:19:51  |  Out of Stock Item: oreo
+08.03.2016, 02:19:52  |  Item Removed From Shelf: penut butter cookie offbrand
+08.03.2016, 02:20:05  |  Out of Stock Item: oreo bundle pack
+08.03.2016, 02:20:06  |  Item Removed From Shelf: oreo
+08.03.2016, 02:20:06  |  Item Removed From Shelf: penut butter cookie offbrand
+01.13.2017, 18:54:19  |  Out of Stock Item: oreo
+01.13.2017, 18:55:09  |  Out of Stock Item: oreo
+01.13.2017, 18:55:34  |  Out of Stock Item: oreo
+01.13.2017, 18:56:06  |  Item Removed From Shelf: oreo
+01.13.2017, 18:56:06  |  Item Removed From Shelf: johnson and johnson lotion
+01.13.2017, 18:57:10  |  Out of Stock Item: oreo bundle pack
+01.13.2017, 18:57:10  |  Item Removed From Shelf: oreo
+01.13.2017, 18:57:11  |  Item Removed From Shelf: penut butter cookie offbrand
+01.13.2017, 19:02:46  |  Out of Stock Item: oreo bundle pack
+01.13.2017, 19:02:47  |  Item Removed From Shelf: oreo
+01.13.2017, 19:02:48  |  Item Removed From Shelf: penut butter cookie offbrand
+01.13.2017, 19:03:17  |  Out of Stock Item: oreo bundle pack
+01.13.2017, 19:03:18  |  Item Removed From Shelf: oreo
+01.13.2017, 19:03:19  |  Item Removed From Shelf: penut butter cookie offbrand
+04.11.2017, 15:26:46  |  Out of Stock Item: oreo
+04.11.2017, 15:27:24  |  Item Removed From Shelf: oreo
+04.11.2017, 15:27:24  |  Item Removed From Shelf: johnson and johnson lotion
+05.07.2017, 15:49:27  |  Out of Stock Item: oreo
+05.07.2017, 15:49:49  |  Out of Stock Item: oreo
+05.26.2017, 14:07:54  |  Out of Stock Item: oreo
+05.26.2017, 14:08:23  |  Out of Stock Item: oreo
+05.26.2017, 14:10:28  |  Item Removed From Shelf: oreo
+05.26.2017, 14:10:29  |  Item Removed From Shelf: johnson and johnson lotion
+05.26.2017, 14:11:27  |  Out of Stock Item: oreo bundle pack
+05.26.2017, 14:11:27  |  Item Removed From Shelf: oreo
+05.26.2017, 14:11:28  |  Item Removed From Shelf: penut butter cookie offbrand
